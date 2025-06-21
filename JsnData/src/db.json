@@ -1,0 +1,34 @@
+// {
+//   "attendance": []
+// }
+
+
+
+{
+  "Products": [
+    {
+      "id": "101",
+      "Prodno": "P001",
+      "name": "Laptop",
+      "qty": "5",
+      "Customername": "Shivani",
+      "netQty": "50000"
+    },
+    {
+      "id": "102",
+      "Prodno": "P002",
+      "name": "Mouse",
+      "qty": "5",
+      "Customername": "Neha",
+      "netQty": "500"
+    },
+    {
+      "id": "3846",
+      "Prodno": "2",
+      "name": "keyboard ",
+      "qty": "4",
+      "netQty": "3000",
+      "Customername": "shivani"
+    }
+  ]
+}

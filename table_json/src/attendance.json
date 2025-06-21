@@ -1,0 +1,6 @@
+{
+  "attendance": [
+    { "id": 1, "name": "Simran", "status": "Present" },
+    { "id": 2, "name": "Raj", "status": "Absent" }
+  ]
+}
